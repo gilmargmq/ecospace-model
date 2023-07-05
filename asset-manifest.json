@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ecospace-model/static/css/main.253e2a20.css",
+    "main.js": "/ecospace-model/static/js/main.76dbeae8.js",
+    "static/js/787.b57160b1.chunk.js": "/ecospace-model/static/js/787.b57160b1.chunk.js",
+    "index.html": "/ecospace-model/index.html",
+    "main.253e2a20.css.map": "/ecospace-model/static/css/main.253e2a20.css.map",
+    "main.76dbeae8.js.map": "/ecospace-model/static/js/main.76dbeae8.js.map",
+    "787.b57160b1.chunk.js.map": "/ecospace-model/static/js/787.b57160b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.253e2a20.css",
+    "static/js/main.76dbeae8.js"
+  ]
+}

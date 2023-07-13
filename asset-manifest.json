@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ecospace-model/static/css/main.bc85423e.css",
-    "main.js": "/ecospace-model/static/js/main.db9f379e.js",
+    "main.css": "/ecospace-model/static/css/main.f1636659.css",
+    "main.js": "/ecospace-model/static/js/main.7044570d.js",
     "static/js/787.b57160b1.chunk.js": "/ecospace-model/static/js/787.b57160b1.chunk.js",
     "index.html": "/ecospace-model/index.html",
-    "main.bc85423e.css.map": "/ecospace-model/static/css/main.bc85423e.css.map",
-    "main.db9f379e.js.map": "/ecospace-model/static/js/main.db9f379e.js.map",
+    "main.f1636659.css.map": "/ecospace-model/static/css/main.f1636659.css.map",
+    "main.7044570d.js.map": "/ecospace-model/static/js/main.7044570d.js.map",
     "787.b57160b1.chunk.js.map": "/ecospace-model/static/js/787.b57160b1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bc85423e.css",
-    "static/js/main.db9f379e.js"
+    "static/css/main.f1636659.css",
+    "static/js/main.7044570d.js"
   ]
 }
